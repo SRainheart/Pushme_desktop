@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 def on_button_click():
     messagebox.showinfo("Уведомление", "Вы нажали на кнопку")
-
+#fff
 # Создаем главное окно
 root = tk.Tk()
 root.title("Мое десктопное приложение")
